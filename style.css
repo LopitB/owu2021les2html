@@ -1,0 +1,13 @@
+.text{
+    background: gainsboro;
+    font-size: 18px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color:red;
+}
